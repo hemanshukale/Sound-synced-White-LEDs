@@ -1,6 +1,9 @@
 # Sound-synced-lights-using-ESP8266
 Sync your lights with music playing or any sound you want-
 
+
+https://youtu.be/xqCmeVD_XI8
+
 Here are 2 sketches - 1 of processing to be run on computer or Raspberry PI, other on ESP8266  
 This processing sketch analyses the value of Sound in MIC IN and sends a scaled values (0 - 1023) to the ESP which in turn, writes the corresponding pwm to the LED strip  
 
